@@ -1,6 +1,6 @@
 require 'open-weather-ruby-client'
 
-# adding a comment
+# adding a comment - another change
 CLIENT = OpenWeather::Client.new(
   api_key: "API_KEY"
 )
